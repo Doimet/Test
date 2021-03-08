@@ -1,7 +1,7 @@
 {
   "updates": {
     "windows": {
-      "version":"1.0.0",
+      "version":"1.0.2",
       "download": "https://raw.githubusercontent.com/Doimet/Fish/master/LICENSE",
       "changelogs": ""
     }
