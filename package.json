@@ -1,0 +1,9 @@
+{
+  "updates": {
+    "windows": {
+      "version":"1.0.0",
+      "download": "https://raw.githubusercontent.com/Doimet/Fish/master/LICENSE",
+      "changelogs": ""
+    }
+  }
+}
