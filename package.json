@@ -5,5 +5,10 @@
       "download": "https://raw.githubusercontent.com/Doimet/Fish/master/LICENSE",
       "changelogs": "1.新增基本信息功能\n\n2.新增命令执行功能\n\n3.新增文件管理功能\n\n4.新增数据库管理功能\n\n5.新增扩展功能"
     }
+  },
+  "message":{
+	  "title":"test",
+	  "content":"测试",
+	  "url":""
   }
 }
